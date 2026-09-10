@@ -9,7 +9,7 @@ It combines data extraction from APIs and web scraping with data cleaning and vi
 ## 🛠 Technologies Used
 
 - `yfinance` – for pulling historical stock price data
-- `requests` + `BeautifulSoup` – for scraping revenue data from HTML
+- `requests`  +  `BeautifulSoup` – for scraping revenue data from HTML
 - `pandas` – for data manipulation
 - `plotly` – for interactive visualizations
 - `Jupyter Notebook` – for writing and presenting the analysis
